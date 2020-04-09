@@ -1,6 +1,6 @@
 # Awesome Creatures development resources
 
-[<img src="acdr_logo.png" align="right" width="120">](https://github.com/Creatures-Developer-Network/awesome-creatures-development-resources)
+[<img src="acdr_logo.png" align="right" width="90">](https://github.com/Creatures-Developer-Network/awesome-creatures-development-resources)
 
 > A collaborative curated list of awesome Creatures development resources, tools, tutorials and other related stuff.
 
