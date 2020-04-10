@@ -20,21 +20,10 @@
 ## Tutorials
 
 > Tutorials and Guides on Creatures Development
-
-http://www.zenzoa.com/creatures/help.html A Guide to Mac Agenteering
-
-https://creatures.wiki/Basic_lift_script Basic Lift Script
-
-https://creatures.wiki/Basic_plant_script Basic Plant Script
-
-https://creatures.wiki/Basic_interactive_plant_script Basic Interactive Plant Script
-
-https://creatures.wiki/Basic_interactive_plant_script_part_2 Basic Interactive Plant Script Part 2
-
-https://creatures.wiki/Basic_doll_script Basic doll script
-
-https://creatures.wiki/Simple_door_script Simple Door Script 
-
+- [A Guide to Mac Agenteering](http://www.zenzoa.com/creatures/help.html) - A toy tutorial.
+- [Tutorials at the Creatures Wiki](https://creatures.wiki/Category:Tutorials) - A list of tutorials available at the Creatures Wiki.  Look out for the basics series!
+- [C3 Bootstrap V2](http://www.webpetz.com/creatures/updatesce.php) - A version of the C3 bootstrap with comments in the code.
+ 
 ## Miscellaneous
 
 > Creatures development related Stuff that does not fit into another Category
