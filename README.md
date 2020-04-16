@@ -16,7 +16,7 @@
 > Tools for Creatures Development
 
 - [Jagent](https://sourceforge.net/projects/jagent/) - Jagent is a suite for manipulating Creatures 3 and Docking Station agents. It consists of a sprite tool (Edos) and a PRAY tool (Monk).
-- [Monastery](http://naturingnurturing.blogspot.com/2017/11/easy-multi-agent-packaging.html) - Monastery is a tool that can compile multiple agents into one agent file
+- [Monastery](http://naturingnurturing.blogspot.com/2017/11/easy-multi-agent-packaging.html) - Monastery is a tool that can compile multiple agents into one agent file.
 
 ## Tutorials
 
