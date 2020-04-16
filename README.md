@@ -30,6 +30,7 @@
 ## Miscellaneous
 
 > Creatures development related Stuff that does not fit into another Category
+- [Creatures Development Standards](https://docs.google.com/spreadsheets/d/1CHKnTzjdAJap-tcMcpKPR5NMYvmmpRYZZUxLJo453-c/) - A community-maintained document of development standards for agents to help ensure consistency.
 
 ## License / Disclaimer
 
