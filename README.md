@@ -44,6 +44,7 @@
 
 - [Eem Foo's Archive](https://eemfoo.org/) - Creatures Archival Project. All kinds of Creatures related Stuff is archived here, including development resources and tools.
 - [Creatures Development Standards](https://docs.google.com/spreadsheets/d/1CHKnTzjdAJap-tcMcpKPR5NMYvmmpRYZZUxLJo453-c/) - A community-maintained document of development standards for agents to help ensure consistency.
+- [Caos Coding Cave](https://discord.com/invite/6C2NwKr) - Creatures Development Discord Server! Network and chat with Creatures developers and die hard fans!
 
 ## License / Disclaimer
 
