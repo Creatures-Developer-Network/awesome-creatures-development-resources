@@ -19,6 +19,7 @@
 - [Jagent](https://sourceforge.net/projects/jagent/) - Jagent is a suite for manipulating Creatures 3 and Docking Station agents. It consists of a sprite tool (Edos) and a PRAY tool (Monk).
 - [Monastery](http://naturingnurturing.blogspot.com/2017/11/easy-multi-agent-packaging.html) - Monastery is a tool that can compile multiple agents into one agent file.
 - [CDN Tools (hosted on eemfoo)](https://eemfoo.org/ccarchive/Other/CDN) - A Mirror of all the official Creatures Development Network Tools and resources.
+- [CaosPlugin](https://github.com/bedalton/Caos-Plugin-IntelliJ) - Plugin that aims to provide CAOS and agent editing for a variety of Creatures variants to the [IntelliJ IDE](https://www.jetbrains.com/idea/) by JetBrains.
 
 ## Websites and Pages
 
