@@ -1,4 +1,4 @@
-# Awesome Creatures development resources
+# Awesome Creatures Development Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="acdr_logo.png" align="right" width="90">](https://github.com/Creatures-Developer-Network/awesome-creatures-development-resources)
 
@@ -7,10 +7,9 @@
 ## Contents
 
 - [Tools](#tools)
-- [Tutorials](#tutorials)
 - [Websites and Pages](#websites-and-pages)
+- [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
-
 
 ## Tools
 
@@ -46,11 +45,3 @@
 - [Eem Foo's Archive](https://eemfoo.org/) - Creatures Archival Project. All kinds of Creatures related Stuff is archived here, including development resources and tools.
 - [Creatures Development Standards](https://docs.google.com/spreadsheets/d/1CHKnTzjdAJap-tcMcpKPR5NMYvmmpRYZZUxLJo453-c/) - A community-maintained document of development standards for agents to help ensure consistency.
 - [Caos Coding Cave](https://discord.com/invite/6C2NwKr) - Creatures Development Discord Server! Network and chat with Creatures developers and die hard fans!
-
-## License / Disclaimer
-
-[![Public Domain](https://licensebuttons.net/l/publicdomain/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This list in itself is released into Public Domain, this does not necessarily apply to the Sites linked to!
-
-Please respect the individual Copyright and Licenses of the Items in this List.
