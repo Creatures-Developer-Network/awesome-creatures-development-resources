@@ -34,7 +34,7 @@
 
 > Tutorials and Guides on Creatures Development
 
-- [A Guide to Mac Agenteering](https://zenzoa.com/creatures/c3ds-agenteering.html) - A toy tutorial.
+- [A Guide to Mac Agenteering](https://zenzoa.com/creatures/c3ds-agenteering.html) - A guide to making agents for Creatures 3 and Docking Station using Theist.
 - [Tutorials at the Creatures Wiki](https://creatures.wiki/Category:Tutorials) - A list of tutorials available at the Creatures Wiki. Look out for the basics series!
 - [C3 Bootstrap V2](http://www.webpetz.com/creatures/updatesce.php) - A version of the C3 bootstrap with comments in the code.
 - [Balloon Maker Tutorial](https://web.archive.org/web/20170814225139/http://www.gamewareeurope.com/GWDev/cdn/CDN_more.php?CDN_article_id=38) - Official tutorial, how to make a vendor.
